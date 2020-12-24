@@ -1,0 +1,47 @@
+    "More":
+    [
+  {
+    "id":1,
+    "judul":"Venomous Animals",
+    "image":"https://play-lh.googleusercontent.com/EUu_2IKKEczZXFyczP7KtN-eqw0ooRXN5ZQrjRVWv4l9WWIMgQg5ZC3A5XeHZikJ024W=s180-rw",
+    "link":"https://play.google.com/store/apps/details?id=com.venomousanimals.ebooks"
+  },
+  {
+    "id":2,
+    "judul":"Civil law",
+    "image":"https://play-lh.googleusercontent.com/E45NkZ4xUxTxvt6Du8v7iuntAmxVNRPkoAqMlzRyjvJCVBoMMYOF6tfG-tZ-wS3isAUY=s180-rw",
+     "link":"https://play.google.com/store/apps/details?id=com.civillaw.ebooks"
+  },
+  {
+    "id":3,
+    "judul":"Aerospace engineering",
+    "image":"https://play-lh.googleusercontent.com/ls1j0v37OHz05o7qGBZF_8cqRIKq9MXs2ZSV9Yj2kyh9keNDXX9xJhHdyAfOUfdwPJw=s180-rw",
+    "link":"https://play.google.com/store/apps/details?id=com.aerospaces.ebooks"
+  }
+],
+
+    "Iklan": [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=com.civillaw.ebooks",
+        "pengaturan_iklan":"1",
+        "iklan_splash":"1",
+        "startappid":"12345678",
+        "pub_id": "pub-5179504148795507",
+        "admobappid": "ca-app-pub-5179504148795507~8036326988",
+        "Iadmob_inter": "ca-app-pub-5179504148795507/5390800586",
+        "admob_native": "ca-app-pub-5179504148795507/4512014943",
+        "fan_inter": "981545408591412_999151030164183",
+        "fan_native_banner": "981545408591412_2870610639684870",
+        "deskripsi_update": "Ini mah hanya contoh saja promosi iklan via json",
+        "interval": 3,
+        "version_app":5,
+        "hpk_admob1":"",
+        "hpk_admob2":"",
+        "hpk_admob3":"",
+        "hpk_admob4":"",
+        "hpk_admob5":""
+        }
+    ]
+
+}
