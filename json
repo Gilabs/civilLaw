@@ -1,3 +1,4 @@
+{
     "More":
     [
   {
@@ -23,15 +24,15 @@
     "Iklan": [
         {
         "status": "0",
-        "link": "https://play.google.com/store/apps/details?id=com.civillaw.ebooks",
+        "link": "https://play.google.com/store/apps/details?id=com.spices.ebooks",
         "pengaturan_iklan":"1",
         "iklan_splash":"1",
         "startappid":"12345678",
         "pub_id": "pub-5179504148795507",
-        "admobappid": "ca-app-pub-5179504148795507~9277237645",
+        ""admobappid": "ca-app-pub-5179504148795507~9277237645",
         "Iadmob_inter": "ca-app-pub-5179504148795507/5884787540",
         "admob_native": "ca-app-pub-5179504148795507/8341866167",
-        "fan_inter": "981545408591412_999151030164993",
+        "fan_inter": "981545408591412_999151030164183",
         "fan_native_banner": "981545408591412_2870610639684870",
         "deskripsi_update": "Ini mah hanya contoh saja promosi iklan via json",
         "interval": 3,
